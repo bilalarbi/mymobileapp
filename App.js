@@ -9,7 +9,7 @@ const MyMobileApp = () => {
 justifyContent: 'center',
       alignItems: 'center',
     }}>
-      <Text>Hello Bilal!</Text>
+      <Text>Hello Bila!</Text>
     </View>
   );
 };
